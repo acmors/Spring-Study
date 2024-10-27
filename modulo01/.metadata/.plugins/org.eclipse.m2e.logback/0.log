@@ -63,3 +63,21 @@
 2024-10-27 20:10:24,929 [Worker-27: Launching ProdutosApi - ProdutosApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-10-27 20:10:25,095 [Worker-27: Launching ProdutosApi - ProdutosApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-10-27 20:10:25,102 [Worker-27: Launching ProdutosApi - ProdutosApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\marcos\Documents\Java\spring_expert\modulo01\ProdutosApi\src\test\resources
+2024-10-27 20:16:53,093 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-27 20:16:53,104 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-27 20:16:53,109 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\marcos\Documents\Java\spring_expert\modulo01\ProdutosApi\src\test\resources
+2024-10-27 20:28:40,645 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-27 20:28:40,656 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-27 20:28:40,664 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\marcos\Documents\Java\spring_expert\modulo01\ProdutosApi\src\test\resources
+2024-10-27 20:30:45,863 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-27 20:30:45,943 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-27 20:30:45,948 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\marcos\Documents\Java\spring_expert\modulo01\ProdutosApi\src\test\resources
+2024-10-27 20:31:54,667 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-27 20:31:54,672 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-27 20:31:54,680 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\marcos\Documents\Java\spring_expert\modulo01\ProdutosApi\src\test\resources
+2024-10-27 20:33:39,375 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-27 20:33:39,423 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-27 20:33:39,430 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\marcos\Documents\Java\spring_expert\modulo01\ProdutosApi\src\test\resources
+2024-10-27 20:35:27,775 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-27 20:35:27,815 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-27 20:35:27,821 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\marcos\Documents\Java\spring_expert\modulo01\ProdutosApi\src\test\resources

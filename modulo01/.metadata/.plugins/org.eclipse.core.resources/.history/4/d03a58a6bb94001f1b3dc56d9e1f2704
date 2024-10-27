@@ -1,0 +1,2 @@
+spring.application.name=ProdutosApi
+spring.application.datasource.url: 
