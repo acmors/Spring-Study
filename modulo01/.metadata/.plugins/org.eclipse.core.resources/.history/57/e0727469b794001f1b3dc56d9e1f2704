@@ -1,0 +1,5 @@
+package com.estudos.model;
+
+public class Produto {
+
+}

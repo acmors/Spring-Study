@@ -1,0 +1,15 @@
+package com.estudos.controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.estudos.model.ProSduto;
+
+@RestController // classe vai lidar com requisições de uma API
+@RequestMapping("/produtos") // url do controller
+public class ProdutoController {
+	
+	public void salvar(Produto produto) {
+		System.out.println("Produto salvo: " + produto);
+	}
+}
